@@ -6,7 +6,9 @@
 
 [在线体验](https://kunkun-11.github.io/tiny-source-lab/) · [English](README.md) · [贡献课程](CONTRIBUTING.md)
 
-![源码实验室：可编辑源码与行为检查](docs/screenshot.png)
+![真实浏览器演示：教学初始代码失败，参考答案恢复两处快照，同一组七项检查全部通过](docs/demo.gif)
+
+演示载入了参考答案，最终通过属于参考学习结果。[静态预览](docs/demo-poster.png) · [完整界面](docs/screenshot.png)
 
 ## 为什么删掉一次数组复制，另一个监听器就不执行了？
 

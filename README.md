@@ -8,7 +8,9 @@ Edit a small JavaScript implementation, watch a surprising edge case, and fix it
 
 [Try the live lab](https://kunkun-11.github.io/tiny-source-lab/) · [中文说明](README.zh-CN.md) · [Add a lesson](CONTRIBUTING.md)
 
-![Tiny Source Lab with editable code and behavior checks](docs/screenshot.png)
+![Real browser demo: the teaching starter fails, the reference restores two snapshots, and all seven checks pass as a guided result](docs/demo.gif)
+
+The demo uses the reference answer; the final pass is a guided result. [Static preview](docs/demo-poster.png) · [Full interface](docs/screenshot.png)
 
 ## The first experiment
 
