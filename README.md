@@ -2,6 +2,8 @@
 
 **Break tiny code. Understand big ideas.**
 
+[![Test and deploy](https://github.com/kunkun-11/tiny-source-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/kunkun-11/tiny-source-lab/actions/workflows/ci.yml)
+
 Edit a small JavaScript implementation, watch a surprising edge case, and fix it with behavior checks. Three guided experiments inspired by **mitt**, **p-limit**, and **Zustand**. No account or AI API key.
 
 [Try the live lab](https://kunkun-11.github.io/tiny-source-lab/) · [中文说明](README.zh-CN.md) · [Add a lesson](CONTRIBUTING.md)

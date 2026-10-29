@@ -41,7 +41,7 @@ The first example asks why an event emitter copies its listener array before dis
 
 You can edit the code and try the checks in your browser. No account or AI API key is needed. The source, lesson definitions, and behavior checks are available in the repository.
 
-Demo: [add the verified live URL]
+Demo: https://kunkun-11.github.io/tiny-source-lab/
 
 Source: https://github.com/kunkun-11/tiny-source-lab
 
@@ -57,7 +57,7 @@ I'd like feedback on one thing: after trying a lesson, is the failing behavior e
 
 不用注册，也不用配置 AI API key。源码、课包与行为检查都公开，欢迎自己改一改，看看你的修复能不能处理边界情况。
 
-在线体验：[补上已经验证的演示地址]
+在线体验：https://kunkun-11.github.io/tiny-source-lab/
 
 GitHub：https://github.com/kunkun-11/tiny-source-lab
 
