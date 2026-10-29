@@ -73,4 +73,6 @@ One useful new lesson is more valuable than a large unverified catalog. See the 
 
 If a lesson helped you understand a tricky behavior, a star makes the project easier to find again. The next release should follow learner feedback; see the [research](docs/RESEARCH.md) and [launch plan](docs/LAUNCH.md) for the rationale.
 
+Want to explain the repair to someone else? The companion [PatchStage workshop](https://kunkun-11.github.io/patchstage/) turns the actual check captures and a selected source diff into an editable release card. [See the real example](https://kunkun-11.github.io/patchstage/samples/example-card.png) or [browse its source](https://github.com/kunkun-11/patchstage).
+
 MIT licensed. Adapted upstream source retains its own attribution and license.

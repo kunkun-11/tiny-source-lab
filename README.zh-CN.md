@@ -56,4 +56,6 @@ npm run build
 
 欢迎贡献讲解、反馈或一个经过验证的新课程。觉得有帮助可以 star，方便以后再找到。选题依据与后续发布计划见 [研究记录](docs/RESEARCH.md) 和 [发布草稿](docs/LAUNCH.md)。
 
+想把这次修复讲给别人看？配套的 [PatchStage 工作台](https://kunkun-11.github.io/patchstage/) 可以把真实检查画面和选定 diff 做成可编辑的展示卡片。[查看示例](https://kunkun-11.github.io/patchstage/samples/example-card.png) 或 [项目源码](https://github.com/kunkun-11/patchstage)。
+
 项目采用 MIT 许可，改写的上游源码保留各自署名和许可。
