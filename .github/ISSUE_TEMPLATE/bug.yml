@@ -1,0 +1,17 @@
+name: Report a problem
+description: Tell us which lesson or browser step failed.
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and operating system
+      placeholder: Firefox on Windows 11
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps, expected result, and actual result
+      description: Include the lesson, code change, and failing check when relevant.
+    validations:
+      required: true
